@@ -52,7 +52,7 @@ python3 tools/train.py configs/PanoGlass/myDecoder_convnext_xlarge_fp16_640x640_
 
 python3 tools/test.py configs/PanoGlass/myDecoder_convnext_xlarge_fp16_640x640_80k_voc12.py work_dirs/myDecoder_convnext_xlarge_fp16_640x640_80k_voc12/iter_80000.pth --eval mFscore --show-dir show-prtsc
 
-Download the well-trained models ([PanoGlass](https://drive.google.com/file/d/1NVkxwP-zlQfvb9XYCQB3MP6AE-_K8JxH/view?usp=sharing)
+Download the well-trained models ([PanoGlass])(https://drive.google.com/file/d/1NVkxwP-zlQfvb9XYCQB3MP6AE-_K8JxH/view?usp=sharing)
 
 
 ## Citation
